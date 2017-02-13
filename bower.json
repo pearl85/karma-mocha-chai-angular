@@ -1,0 +1,19 @@
+{
+    "name": "test",
+    "description": "",
+    "main": "index.js",
+    "license": "ISC",
+    "moduleType": [],
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "^1.5.0",
+        "angular-mocks": "^1.5.0"
+    }
+}
